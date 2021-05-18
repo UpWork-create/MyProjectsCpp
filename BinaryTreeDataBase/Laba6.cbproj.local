@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.718,=D:\C++Builder\Project7PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,=D:\C++Builder\Unit13.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,=D:\C++Builder\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\C++Builder\Project7.cbproj=D:\C++Builder\Project7.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,D:\C++Builder\BinaryTree.h=D:\C++Builder\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,D:\C++Builder\Laba6.cbproj=D:\C++Builder\Project7.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,D:\C++Builder\Laba6PCH1.h=D:\C++Builder\Project7PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,D:\C++Builder\BinaryTree.cpp=D:\C++Builder\Unit3.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Laba6.cpp"/>
+    <File Path="Laba6PCH1.h"/>
+    <File Path="Unit13.cpp"/>
+    <File Path="Unit13.cpp"/>
+    <File Path="Unit13.dfm"/>
+    <File Path="Unit13.h"/>
+    <File Path="BinaryTree.cpp"/>
+    <File Path="BinaryTree.cpp"/>
+    <File Path="BinaryTree.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
